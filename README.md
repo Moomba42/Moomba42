@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-I didnt have time yet to fill this out yet, check back some other time!
+I currently work for Luxoft as a ✨ _Senior Software Engineer_ ✨. So far the job is very enjoyable!
 
-<!--
-**Moomba42/Moomba42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My best job was probably at CD Projekt RED - the team was amazing and the products are inspiring, especially due to their cultural significance. \
+I led the devlopment of the Twitch Drops campaign during the release of the Cyberpunk 2077 DLC - Phantom Liberty 😎
 
-Here are some ideas to get you started:
+Here is my website: \
+https://alexdl.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to reach me do so through LinkedIn: \
+[in/adlugosz](https://linkedin.com/in/adlugosz)
+
+This repository also contains a variety of trinkets that help me work.
+Feel free to use them however you want.
