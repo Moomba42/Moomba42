@@ -8,6 +8,8 @@ A list of commands / things that i use rarely but when i do i need to remember h
 - `minikube ip` - IP address of the VM where the cluster and docker engine run.
 - `minikube pause` - pause k8s related containers so that they dont consume system resources
 - `docker.local` host should be used to reach mapped container ports instead of `localhost` since we are running minikube, not docker desktop.
+- `docker container list -f "status=running"` - list only running containers
+- `docker container port NAME_OR_HASH` - show the opened ports of the given container
 
 ## GIT
 - `git log --graph --oneline --all` - show git tree
