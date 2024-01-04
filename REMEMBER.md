@@ -12,3 +12,4 @@ A list of commands / things that i use rarely but when i do i need to remember h
 ## GIT
 - `git log --graph --oneline --all` - show git tree
 - `git show -s --format='%ae' HASH` - show commit author
+- `git rebase -i HEAD~3` - rebase onto the 3rd last commit interactively (allowing you to f.ex. squash the commits)
