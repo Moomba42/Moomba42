@@ -89,7 +89,7 @@ then
     brew install minikube
     minikube start
     eval $(minikube docker-env)
-    echo "`minikube ip` docker.local" | sudo tee -a /etc/hosts > /dev/null
+    echo "$(minikube ip) docker.local" | sudo tee -a /etc/hosts > /dev/null
     docker run hello-world
 fi
 
